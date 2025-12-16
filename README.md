@@ -43,10 +43,14 @@ Production files are optimized for JLCPCB:
 
 ### Power Circuit Comparison
 <!-- Add your oscilloscope comparison images here -->
-*Ripple and noise measurement comparison coming soon*
+<img width="920" height="385" alt="123" src="https://github.com/user-attachments/assets/0897828c-4a38-4b5a-b08d-046792c03588" />
+<Due to chip failure caused by static electricity during oscilloscope waveform measurement, no photos of the actual printed device are available.>
+From bottom to top: immediately after boost converter, after LC filter, and before final IMU power supply.
 
 ### License
-TBD
+- Hardware (PCB, Schematics, 3D files): [MIT License](LICENSE)
+- Documentation: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ### Revision History
 - **Rev02** (Current): Power circuit optimization, noise reduction
@@ -91,18 +95,24 @@ JLCPCB 기준 제조 파일 제공:
 1. `Production/` 폴더의 거버 파일 업로드
 2. 제공된 BOM 및 위치 파일로 SMT 조립 주문
 
-### 전원부 비교
+
+
+#### 전원부 비교
 <!-- 오실로스코프 비교 이미지 추가 예정 -->
-*리플 및 노이즈 측정 비교 이미지 추가 예정*
+
+<img width="920" height="385" alt="123" src="https://github.com/user-attachments/assets/1772d7f2-df50-49fa-b9a6-4c577bdee4aa" />
+
+<오실로 스코프 파형 측정중 정전기로 인한 칩 고장으로 기기 자체 인쇄 사진이 없음>
+맨 아래부터 승압 직후, LC필터 이후, 최종 imu공급 직전
+
 
 ### 라이선스
-미정
+- Hardware (PCB, Schematics, 3D files): [MIT License](LICENSE)
+- Documentation: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ### 변경 이력
 - **Rev02** (현재): 전원부 최적화, 노이즈 저감
 - **Rev01**: 최초 설계
 
 ---
-
-## Contact
-For questions or suggestions, please open an issue.
