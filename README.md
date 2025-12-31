@@ -1,3 +1,10 @@
+
+
+![asd](https://github.com/user-attachments/assets/8228291a-ee7a-49d2-be5c-5b5ca0e44572)
+
+
+
+
 # UNCZ_Slime_tracker
 
 [English](#english) | [한국어](#한국어)
